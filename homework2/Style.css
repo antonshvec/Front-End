@@ -1,0 +1,86 @@
+h3{
+    text-align: center;
+    color: rgb(255, 0, 0);
+}
+
+.piano{
+    border: 1px solid;
+    background-color: rgb(44, 119, 211);
+    padding: 5px;
+    margin: 15px;
+}
+
+.txtpiano{
+    color: pink;
+}
+
+.buy{
+    color: red;
+}
+
+.github{
+    border: 1px solid;
+    background-color: rgb(46, 187, 93);
+    padding: 5px;
+    margin: 15px;
+}
+
+.Github{
+    color: red;
+}
+
+.gitfoto{
+    height: 15%;
+    width: 15%;
+}
+
+.txtgit {
+    color: aqua;
+}
+
+.friends{
+    border: 1px solid;
+    background-color: rgb(175, 82, 172);
+    padding: 5px;
+    margin: 15px;
+}
+
+.pianofoto{
+    height: 15%;
+    width: 15%;
+}
+
+.friendsfoto{
+    height: 15%;
+    width: 15%;
+}
+
+.Friendslink{
+    color: red;
+}
+
+.txtfriend{
+color: rgb(255, 225, 0);    
+}
+
+.messengers{
+    text-align: center;
+    border: 2px solid;
+    padding: 1%;
+    margin: 1%;
+}
+
+.instagrammfoto {
+    height: 112%;
+    width: 2%;
+}
+
+.facebookfoto {
+    height: 2%;
+    width: 2%;
+}
+
+.twitterfoto {
+    height: 2%;
+    width: 2%;
+}
